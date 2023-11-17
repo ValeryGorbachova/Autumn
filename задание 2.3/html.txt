@@ -1,0 +1,22 @@
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+  <div class='links'>
+  
+<a class="google" href="https://www.google.com" target="_blank">google.com img src= "/static/sber/task_7/google.png">
+
+<a class= "yandex" href= "https://yandex.ru" target="_blank">yandex.ru img src="/static/sber/task_7/yandex.png">
+
+<a class "mail" href= "https://mail.ru" target="_blank">mail.ru img src "src /static/sber/task_7/mail.png">
+
+</a>
+  </div>
+</body>
+
+</html>

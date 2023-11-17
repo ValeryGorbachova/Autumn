@@ -1,0 +1,37 @@
+
+
+<html>
+
+<head>
+</head>
+
+<body>
+<div class="flex_container"
+
+  <div class='map map_1'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+  </div>
+  </div>
+  
+  <div class="container"
+  
+  <div class='map map_2'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+  </div>
+  </div>
+  
+  <div class="flex__container"
+  <div class='map map_3'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+    <img class='mario' src='/static/sber/task_8/mario.png'>
+  </div>
+  </div>
+</body>
+
+</html>
+

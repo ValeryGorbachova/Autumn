@@ -1,0 +1,10 @@
+
+
+    В тег с классом links добавьте ссылку на google https://www.google.com с классом google
+    Внутри этой ссылки вставьте картинку с атрибутом src="/static/sber/task_7/google.png"
+    В тег с классом links добавьте ссылку на Яндекс https://yandex.ru c классом yandex
+    Внутри этой ссылки вставьте картинку с атрибутом src="/static/sber/task_7/yandex.png"
+    В тег с классом links добавьте ссылку на Mail https://mail.ru c классом mail
+    Внутри этой ссылки вставьте картинку с атрибутом src="/static/sber/task_7/mail.png"
+    Сделайте так, чтобы ссылки открывались в новом окне
+

@@ -1,0 +1,44 @@
+
+body {
+  background-color: #6f9e80;
+  margin: 0;
+  font-family: sans-serif;
+} 
+
+.links{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin: 10px;
+	padding: 10px;
+}
+
+.links{
+	background-color: #7f8c8d;
+	position: sticky;
+	left: 0;
+	top: 0;
+}
+
+.links a{
+	color: #34495e;
+	text-decoration: none;
+	font-weight: 900;
+}
+
+#block_1{
+	background-color: #16a085;
+}
+
+#block_2{
+	background-color: #2980b9;	
+}
+
+#block_3{
+	background-color: #34495e;
+}
+
+section{
+	height: 100vh;
+}
+

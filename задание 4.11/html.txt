@@ -1,0 +1,13 @@
+
+<html>
+<head>
+</head>
+<body>
+<div>class="even"</div>
+<div>class="odd"</div>
+<div>class="even"</div>
+<div>class="odd"</div>
+<div>class="even"</div>
+<div>class="odd"</div>
+</body>
+</html>

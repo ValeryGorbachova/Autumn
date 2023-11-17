@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title> 
+</head>
+<body>
+
+<form oninput="city_out.value=city.value;">
+ <label>Выберите город доставки: </label>
+ 
+   <div class='fields'>
+   
+   <p> Москва </p>
+   
+   <input name="city" type="radio" value="msc" checked>
+   
+   <p> Питер </p>
+   
+   <input name="city type="radio" value="spb">
+   
+   </div>
+  <p>Результат: <output name='city_out' for='city'></output></p>
+ <form>
+
+</body>
+</html>
+
+

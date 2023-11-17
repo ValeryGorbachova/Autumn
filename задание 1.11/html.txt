@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Document</title>
+</head>
+<body>
+<section class='page' id='pullover'> </section>
+<section class='page' id='bike'> </section>
+<section class='page' id='photo'> </section>  
+</body>
+</html>
+

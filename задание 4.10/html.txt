@@ -1,0 +1,39 @@
+
+
+
+<html>
+
+<head>
+</head>
+
+<body>
+<div class='photos'>
+	<div class='block'>
+		<img src='/static/sber/task_12/1.jpeg'>
+		<span> 1 class="number"</span>
+	</div>
+	<div class='block photo_2'>
+		<img src='/static/sber/task_12/2.jpeg'>
+		<span> 2 class="number"</span>
+	</div>
+	<div class='block photo_3'>
+		<img src='/static/sber/task_12/3.jpeg'>
+		<span> 3 class="number"</span>
+	</div>
+	<div class='block photo_4'>
+		<img src='/static/sber/task_12/4.jpeg'>
+		<span> 4 class="number"</span>
+	</div>
+	<div class='block photo_5'>
+		<img src='/static/sber/task_12/5.jpeg'>
+		<span> 5 class="number"</span>
+	</div>
+
+</div>
+
+</body>
+
+</html>
+
+
+

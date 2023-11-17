@@ -1,0 +1,3 @@
+
+
+Выделите текст HTML!, обернув его в тег <span class="text-gradient"></span>

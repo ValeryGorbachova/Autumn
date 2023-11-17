@@ -1,0 +1,13 @@
+
+body {
+  background-color: #6f9e80;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+p{
+  background-color:#ecf0f1;
+  color:#34495e;
+  padding: 10px;
+  margin: 10px;
+}

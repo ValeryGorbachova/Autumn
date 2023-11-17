@@ -1,0 +1,29 @@
+
+<html>
+<head>
+</head>
+
+<body>
+	<form>
+		<div class='field'>
+			<label for="name"Укажите ваше имя: </label>
+			<input id='name__input' type='text'>
+		</div>
+		<div class='field'>
+			<label>Укажите вашу фамилию: </label>
+			<input id='lastname__input' type='text'>
+		</div>
+		<div class='field'>
+			<label>Укажите ваш возраст: </label>
+			<input id='age_input' type="number" min="0" max="150"
+			type='text'>
+		</div>
+		<div class='field'>
+			<label>Укажите ваш телефон:</label>
+			<input id='phone__input' placeholder="8-999-999-99-99" type='text'>
+		</div>
+	<button>Отправить	</button>
+	</form>
+</body>
+
+</html>
