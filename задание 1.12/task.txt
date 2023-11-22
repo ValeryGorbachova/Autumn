@@ -1,5 +1,0 @@
-
-
-    Добавьте тег link, который подгружает шрифт Raleway (ссылка: https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap)
-    Добавьте для body стиль font-family: "Raleway"
-

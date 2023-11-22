@@ -1,0 +1,27 @@
+
+body {
+  background-color: #6f9e80;
+  margin: 0;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+@keyframes img {
+    0% {left: -100px}
+    50% {left: 60vw; top: 100px}
+    60% {left: 30vw; top: 100px}
+    100% {left: 100vw; top: 200px}
+    animation-duration: 3s;
+    animation-iteration-count: 2;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+}
+
+
+img{
+  width: 100px;
+  position: absolute;
+  left: -100px;
+  top: 200px;
+}
+
